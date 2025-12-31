@@ -3,12 +3,12 @@
 <h3 align="center">Software Engineer</h3>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,express,php" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,express,php,docker" />
   </a>
 </p>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,less,sass,js,bootstrap,jquery,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,less,sass,js,bootstrap,jquery,angular,npm,typescript" />
   </a>
 </p>
 <p align="center">
