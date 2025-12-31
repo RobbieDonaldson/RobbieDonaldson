@@ -11,17 +11,31 @@
 <h3 align="left">Backend:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#,dotnet,express,php" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,express,php" />
   </a>
 </p>
 <h3 align="left">Frontend:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,typescript,json,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,angular,typescript,nodejs" />
   </a>
 </p>
 <h3 align="left">Database:</h3>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb" />
+  </a>
+</p>
 <h3 align="left">Cloud:</h3>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure" />
+  </a>
+</p>
+<h3 align="left">Tools/IDEs:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,visualcode,postman,npm" />
+  </a>
+</p>
  
