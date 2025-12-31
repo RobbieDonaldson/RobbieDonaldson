@@ -1,34 +1,27 @@
 
 <h1 align="center">Hi, I'm Robbie Donaldson</h1>
 <h3 align="center">Software Engineer</h3>
-
-
-<h3 align="left">Backend:</h3>
-<p align="center">
+<p align="center"> Backend Skills:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,express,php" />
   </a>
 </p>
-<h3 align="left">Frontend:</h3>
-<p align="center">
+<p align="center"> Frontend Skills
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,angular,typescript,nodejs" />
   </a>
 </p>
-<h3 align="left">Database:</h3>
-<p align="center">
+<p align="center"> Database Skills:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb" />
   </a>
 </p>
-<h3 align="left">Cloud:</h3>
-<p align="center">
+<p align="center"> Cloud:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure" />
   </a>
 </p>
-<h3 align="left">Tools/IDEs:</h3>
-<p align="center">
+<p align="center"> Tools/IDEs:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,npm" />
   </a>
