@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,git,github,bitbucket" />
   </a>
 </p>
 <p align="center">
