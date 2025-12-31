@@ -18,12 +18,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,bitbucket,windows,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,bitbucket" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,npm" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,npm,windows,ubuntu" />
   </a>
 </p>
  
