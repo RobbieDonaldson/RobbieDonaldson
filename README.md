@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb,postgre" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb,postgres,mariadb" />
   </a>
 </p>
 <p align="center">
