@@ -35,7 +35,7 @@
 <h3 align="left">Tools/IDEs:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,visualcode,postman,npm" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,npm" />
   </a>
 </p>
  
