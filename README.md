@@ -1,9 +1,4 @@
-<style>
-  .devicon{
-    width: 30px;
-    height: 30px;
-  }
-</style  
+
 <h1 align="center">Hi, I'm Robbie Donaldson</h1>
 <h3 align="center">Software Engineer</h3>
 
