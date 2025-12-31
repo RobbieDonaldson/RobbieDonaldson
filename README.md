@@ -13,12 +13,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb,postgres,mariadb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb,postgres" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,bitbucket,windows,ubuntu" />
   </a>
 </p>
 <p align="center">
