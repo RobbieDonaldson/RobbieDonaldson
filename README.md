@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi, I'm Robbie Donaldson</h1>
 <h3 align="center">Software Engineer</h3>
-<h4 align="center">Skills</h3>
+<h4 align="center">Skills:</h3>
 <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,angular,typescript" />
@@ -32,4 +31,3 @@
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,windows,linux,ubuntu" />
   </a>
 </p>
- 
