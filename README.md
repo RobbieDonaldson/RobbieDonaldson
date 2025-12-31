@@ -8,7 +8,7 @@
 </p>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,less,sass,js,bootstrap,jquery,angular,npm,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,less,sass,js,bootstrap,jquery,angular,typescript" />
   </a>
 </p>
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,git,github,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,git,github,bitbucket,npm" />
   </a>
 </p>
 <p align="center">
