@@ -8,12 +8,12 @@
 </p>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,angular,typescript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,angular" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb,postgre" />
   </a>
 </p>
 <p align="center">
